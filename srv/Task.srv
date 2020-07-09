@@ -1,4 +1,5 @@
 string task_name
+string task_args
 ---
 bool success
 string message
