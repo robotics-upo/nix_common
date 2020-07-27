@@ -52,6 +52,7 @@ add_service_files(
   FILES
   Task.srv
   CheckObstacles.srv
+  CheckOccupied.srv
 )
 
 ## Generate actions in the 'action' folder
